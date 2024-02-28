@@ -1,0 +1,51 @@
+*{ 
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-color: lightgrey;
+    
+}
+
+#homes:hover{
+    text-decoration: underline;
+    text-decoration-color: blue;
+    text-decoration-style: solid;
+    text-decoration-thickness: 5px;
+
+}
+#abouts:hover{
+    text-decoration: underline;
+    text-decoration-color: blue;
+    text-decoration-style: solid;
+    text-decoration-thickness: 5px;
+
+}
+#skills:hover{
+    text-decoration: underline;
+    text-decoration-color: blue;
+    text-decoration-style: solid;
+    text-decoration-thickness: 5px;
+
+}
+#certificates:hover{
+    text-decoration: underline;
+    text-decoration-color: blue;
+    text-decoration-style: solid;
+    text-decoration-thickness: 5px;
+
+}
+#contacts:hover{
+    text-decoration: underline;
+    text-decoration-color: blue;
+    text-decoration-style: solid;
+    text-decoration-thickness: 5px;
+
+}
+#footer{
+       height: 100%;
+       width: 100%;
+       
+       background-color: rgb(130, 130, 131);
+       color: black;
+}
